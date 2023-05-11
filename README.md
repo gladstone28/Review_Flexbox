@@ -70,6 +70,7 @@ selector {
   property: value;
 }
 ```
-
-
-
+###### Link to codecademy lesson below:
+https://www.codecademy.com/courses/learn-intermediate-css/lessons/learn-flexbox/exercises/review-flexbox
+###### Link to files folder below
+/c/Users/glads/Documents/PROJECTS_AT_CODECADEMY/FLEXBOX/Review_Flexbox
